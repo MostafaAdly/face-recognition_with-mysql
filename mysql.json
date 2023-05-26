@@ -1,0 +1,6 @@
+{
+    "host": "localhost",
+    "pass": "",
+    "database": "face_recognition",
+    "user": "root"
+}

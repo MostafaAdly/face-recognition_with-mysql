@@ -1,0 +1,1 @@
+py "reset attendance mysql.py"
